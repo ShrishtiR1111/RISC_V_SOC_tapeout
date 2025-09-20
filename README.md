@@ -4,7 +4,7 @@ SYSTEM INFORMATION
 </p>
 
 <p align="center">
-  <img src="" width="600">
+  <img src="https://github.com/ShrishtiR1111/RISC_V_SOC_tapeout/blob/main/123/system.png" width="600">
 </p>
 ---
 
