@@ -137,12 +137,9 @@ cd OpenLane
 make
 make test
 ```
-A successful run of the `spm` design using **Sky130A PDK**.  
-Key outputs are stored under [`Week-0/assets/openlane-spm/`](Week-0/assets/openlane-spm/).
+A successful run of the `spm` design.  
+Key outputs are stored under [`https://github.com/ShrishtiR1111/RISC_V_SOC_tapeout/tree/main/final`](https://github.com/ShrishtiR1111/RISC_V_SOC_tapeout/tree/main/final).
 
-- [Final GDSII (Magic)](Week-0/assets/openlane-spm/gds/spm.gds)
-- [Final LEF](Week-0/assets/openlane-spm/lef/spm.lef)
-- [Final Verilog](Week-0/assets/openlane-spm/verilog/gl/spm.v)
 </details>
 
 ---
