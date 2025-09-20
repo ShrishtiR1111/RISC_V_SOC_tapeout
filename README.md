@@ -77,7 +77,7 @@ sudo make install
 
 ```
 <p align="center">
-  <img src="./Week-0/assets/ngspice.png" alt="System Information" width="600">
+  <img src="https://github.com/ShrishtiR1111/RISC_V_SOC_tapeout/blob/main/123/ngspice.png" alt="System Information" width="600">
 </p>
 <hr style="border-top: 1px dotted #bbb;" />
 
