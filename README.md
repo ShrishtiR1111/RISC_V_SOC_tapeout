@@ -8,7 +8,7 @@ SYSTEM INFORMATION
 </p>
 ---
 
-# 🗓️ Week 0 
+# 🗓️ Week 0 ASSIGNMENT
 <details>
 <summary> Tools Installation & Environment Setup </summary>
   <hr style="border-top: 1px dotted #bbb;" />
@@ -43,7 +43,7 @@ sudo apt-get update
 sudo apt-get install iverilog
 ```
 <p align="center">
-  <img src="./Week-0/assets/iverilog.png" alt="System Information" width="600">
+  <img src="https://github.com/ShrishtiR1111/RISC_V_SOC_tapeout/blob/main/123/iverilog.png" alt="System Information" width="600">
 </p>
 
 <hr style="border-top: 1px dotted #bbb;" />
