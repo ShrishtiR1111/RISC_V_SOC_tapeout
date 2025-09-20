@@ -14,7 +14,7 @@ SYSTEM INFORMATION
   <hr style="border-top: 1px dotted #bbb;" />
 🔹 Yosys – Logic Synthesis Tool
   
-An open-source synthesis framework used to convert Verilog RTL into gate-level netlists. It’s the backbone of open-source digital design flows and works with standard cell libraries like Sky130.
+An open-source synthesis framework used to convert Verilog RTL into gate-level netlists. It’s the backbone of open-source digital design flows and works with standard cell libraries.
 
 ```bash
 sudo apt-get update
@@ -29,7 +29,7 @@ make
 sudo make install
 ```
 <p align="center">
-  <img src="./Week-0/assets/yosys.png" alt="System Information" width="600">
+  <img src="https://github.com/ShrishtiR1111/RISC_V_SOC_tapeout/blob/main/123/yosys.png" alt="System Information" width="600">
 </p>
 
 <hr style="border-top: 1px dotted #bbb;" />
