@@ -10,7 +10,7 @@ SYSTEM INFORMATION
 
 # 🗓️ Week 0 ASSIGNMENT
 <details>
-<summary> Tools Installation & Environment Setup </summary>
+<summary> DEAILS OF INSTALLATION </summary>
   <hr style="border-top: 1px dotted #bbb;" />
 🔹 Yosys – Logic Synthesis Tool
   
@@ -57,7 +57,7 @@ sudo apt-get update
 sudo apt-get install gtkwave
 ```
 <p align="center">
-  <img src="./Week-0/assets/gtkwave.png" alt="System Information" width="600">
+  <img src="https://github.com/ShrishtiR1111/RISC_V_SOC_tapeout/blob/main/123/gtkwave.png"System Information" width="600">
 </p>
 <hr style="border-top: 1px dotted #bbb;" />
 
