@@ -8,7 +8,7 @@ SYSTEM INFORMATION
 </p>
 ---
 
-# 🗓️ Week 0 ASSIGNMENT
+# Week 0 ASSIGNMENT
 <details>
 <summary> DEAILS OF INSTALLATION </summary>
   <hr style="border-top: 1px dotted #bbb;" />
